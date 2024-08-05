@@ -7,30 +7,43 @@ git remote add origin https://github.com/erikcom437/ErikCom437Project.git
 git push -u origin main
 
 Kitchen Wall Tracker
-The Kitchen Wall Tracker is a digital growth tracker for parent to use to track the growth of their children over the years.  The tracker can track height, weight, and updated photos of children throughout the years. 
+The Kitchen Wall Tracker is a digital growth tracker for parents to use to track the growth of their children over the years.  The tracker can track height, weight, and updated photos of children throughout the years. 
+
 Motivation
-The application gives parents the ability to keep track of their children growth using a digital format, replacing the wall marks of years past.  Since this is digital, the information can follow families no matter where they live and be viewed for years to come. 
+The application gives parents the ability to keep track of their children's growth using a digital format, replacing the wall marks of years past.  Since this is digital, the information can follow families no matter where they live and be viewed for years to come. 
+
 Build Status
 This application is currently under development in the planning phase. 
+
 Code Style
 This application will be written using Java for standard Android Mobile Devices
+
 Screenshots
 None.
+
 Tech/Framework used
 This application will be written using Java for standard Android Mobile Devices
+
 Features
 This application will be able to keep historical records of multiple children under one profile, and record information such as Height, Weight and an updated photo for each new record. 
+
 Code Examples
 None
+
 Installation
 This application can be installed from the Android App Store – or in the case of this class project, loaded into a virtual Android phone for viewing. 
+
 API reference
 None
+
 Tests
 None
+
 Contribute
 None
+
 Credits
 None
+
 License
 None
